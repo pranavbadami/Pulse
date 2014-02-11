@@ -1,0 +1,7 @@
+A continuous, beat-matching audio visualizer. Requires audio input, amplifier circuit,
+low-pass filter and an Arduino. 
+
+Circuit schematic: http://www.instructables.com/id/Arduino-Audio-Input/step4/DC-Offset/.
+Add a low-pass filter between the output of the DC offset and the Arduino input.
+
+Authors: Pranav Badami and Neil Chatterjee
